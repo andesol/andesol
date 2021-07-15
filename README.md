@@ -1,6 +1,6 @@
 ### Hi there, stranger 👋
 
-I'm Andreu, a web developer aficionado. My Github profile is mainly a collection of broken toys. Unpolished apps I abandon as soon as I learn what I wanted. 
+I'm Andreu, a web developer aficionado. My Github profile is mainly a collection of unpolished apps I use to learn new things.
 
 - 🌱 I’m currently learning Python + Flask
 - 👯 I’m looking to collaborate on whatever I may help.
